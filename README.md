@@ -65,7 +65,7 @@ Most scraping tools fail on protected sites. **Webustler doesn't.**
 |:--------|:---------:|:---------:|:-------------:|:--------:|:---------:|
 | Anti-bot bypass | ✅ | ⚠️ | ❌ | ⚠️ | ❌ |
 | Cloudflare support | ✅ | ⚠️ | ❌ | ⚠️ | ❌ |
-| No API key needed | ✅ | ❌ | ❌ | ✅ | ❌ |
+| No API key needed | ✅ | ❌ | ❌ | ✅ | ✅ |
 | Self-hosted | ✅ | ✅ | ✅ | ✅ | ✅ |
 | MCP native | ✅ | ❌ | ❌ | ❌ | ❌ |
 | Token optimized | ✅ | ✅ | ❌ | ✅ | ✅ |
