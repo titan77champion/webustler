@@ -144,7 +144,7 @@ Add to your `claude_desktop_config.json`:
   "mcpServers": {
     "webustler": {
       "command": "docker",
-      "args": ["run", "-i", "--rm", "--network", "host", "webustler"]
+      "args": ["run", "-i", "--rm", "webustler"]
     }
   }
 }
@@ -153,7 +153,7 @@ Add to your `claude_desktop_config.json`:
 ### Claude Code
 
 ```bash
-claude mcp add webustler -- docker run -i --rm --network host webustler
+claude mcp add webustler -- docker run -i --rm webustler
 ```
 
 ### Cursor
@@ -165,7 +165,7 @@ Add to your Cursor MCP settings:
   "mcpServers": {
     "webustler": {
       "command": "docker",
-      "args": ["run", "-i", "--rm", "--network", "host", "webustler"]
+      "args": ["run", "-i", "--rm", "webustler"]
     }
   }
 }
@@ -180,7 +180,7 @@ Add to your Windsurf MCP config:
   "mcpServers": {
     "webustler": {
       "command": "docker",
-      "args": ["run", "-i", "--rm", "--network", "host", "webustler"]
+      "args": ["run", "-i", "--rm", "webustler"]
     }
   }
 }
@@ -195,7 +195,7 @@ Pass the `TIMEOUT` environment variable (in seconds):
   "mcpServers": {
     "webustler": {
       "command": "docker",
-      "args": ["run", "-i", "--rm", "--network", "host", "-e", "TIMEOUT=180", "webustler"]
+      "args": ["run", "-i", "--rm", "-e", "TIMEOUT=180", "webustler"]
     }
   }
 }
@@ -405,7 +405,7 @@ Deepcrawl has great features but:
 ```
 webustler/
 ├── server.py           # MCP server
-├── Dockerfile          # Docker build
+├── Dockerfile          # Docker image
 ├── requirements.txt    # Dependencies
 ├── LICENSE             # MIT License
 ├── images/             # Assets

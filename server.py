@@ -8,7 +8,7 @@ from markdownify import markdownify as md
 from fastmcp import FastMCP
 
 _PRIMARY_URL = "https://r.jina.ai/"
-_FALLBACK_URL = "http://host.docker.internal:8191/v1"
+_FALLBACK_URL = "http://localhost:8191/v1"
 _TIMEOUT = int(os.getenv("TIMEOUT", "120"))
 _WORDS_PER_MINUTE = 200  # Average reading speed
 
