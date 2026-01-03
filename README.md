@@ -26,6 +26,8 @@
 
 ---
 
+<a id="why-webustler"></a>
+
 ## 🤔 Why Webustler?
 
 Most scraping tools fail on protected sites. **Webustler doesn't.**
@@ -78,6 +80,8 @@ Most scraping tools fail on protected sites. **Webustler doesn't.**
 
 ---
 
+<a id="features"></a>
+
 ## ✨ Features
 
 <table>
@@ -117,10 +121,12 @@ Word count and reading time calculated automatically. Know your content at a gla
 
 ---
 
+<a id="installation"></a>
+
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/webustler.git
+git clone https://github.com/drruin/webustler.git
 cd webustler
 docker build -t webustler .
 ```
@@ -197,6 +203,8 @@ Pass the `TIMEOUT` environment variable (in seconds):
 
 ---
 
+<a id="usage"></a>
+
 ## 🚀 Usage
 
 Once configured, the `scrape` tool is available to your MCP client:
@@ -216,6 +224,8 @@ Get the article from https://protected-site.com/article
 Webustler handles everything automatically — including Cloudflare challenges.
 
 ---
+
+<a id="output-format"></a>
 
 ## 📄 Output Format
 
@@ -404,6 +414,8 @@ webustler/
 ```
 
 ---
+
+<a id="license"></a>
 
 ## 📜 License
 
