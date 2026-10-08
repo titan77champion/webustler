@@ -1,5 +1,7 @@
 # 🎉 webustler - Simple Web Scraping Made Easy
 
+[![SafeSkill 92/100](https://img.shields.io/badge/SafeSkill-92%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/titan77champion-webustler)
+
 ## 🚀 Getting Started
 
 Welcome to **webustler**, your go-to tool for web scraping. It easily extracts clean, markdown text from any URL—even from sites that use Cloudflare. 
